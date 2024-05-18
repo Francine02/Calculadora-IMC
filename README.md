@@ -1,5 +1,12 @@
-Calculado IMC simples. Feita com HTML, CSS, JavaScript e Bootstrap.
+# Calculadora IMC
+Calculado IMC simples. Feita para colocar em prática questões de JavaScript.
 
-Link: https://francine02.github.io/Calculadora-IMC/
+## :computer:Tecnologias utilizadas:
++ HTML e CSS
++ Bootstrap
++ JavaScript
+
+## :diamonds:Link:
+[Calculadora IMC](https://francine02.github.io/Calculadora-IMC/)
 
 <img src= "img/Captura de tela.png">
